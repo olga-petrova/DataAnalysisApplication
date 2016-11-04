@@ -1,0 +1,205 @@
+[{
+  "state": "Alabama",
+  "price": "93977",
+  "gross_rent_as_percentage": "7"
+}, {
+  "state": "Alaska",
+  "price": "103612",
+  "gross_rent_as_percentage": "6"
+}, {
+  "state": "Arizona",
+  "price": "120397",
+  "gross_rent_as_percentage": "9"
+}, {
+  "state": "Arkansas",
+  "price": "77354",
+  "gross_rent_as_percentage": "7"
+}, {
+  "state": "California",
+  "price": "250753",
+  "gross_rent_as_percentage": "14"
+}, {
+  "state": "Colorado",
+  "price": "177778",
+  "gross_rent_as_percentage": "9"
+}, {
+  "state": "Connecticut",
+  "price": "235192",
+  "gross_rent_as_percentage": "8"
+}, {
+  "state": "Delaware",
+  "price": "170668",
+  "gross_rent_as_percentage": "6"
+}, {
+  "state": "District of Columbia",
+  "price": "225013",
+  "gross_rent_as_percentage": "15"
+}, {
+  "state": "Florida",
+  "price": "131393",
+  "gross_rent_as_percentage": "9"
+}, {
+  "state": "Georgia",
+  "price": "105588",
+  "gross_rent_as_percentage": "9"
+}, {
+  "state": "Hawaii",
+  "price": "292093",
+  "gross_rent_as_percentage": "11"
+}, {
+  "state": "Idaho",
+  "price": "123938",
+  "gross_rent_as_percentage": "7"
+}, {
+  "state": "Illinois",
+  "price": "131021",
+  "gross_rent_as_percentage": "8"
+}, {
+  "state": "Indiana",
+  "price": "88480",
+  "gross_rent_as_percentage": "8"
+}, {
+  "state": "Iowa",
+  "price": "92927",
+  "gross_rent_as_percentage": "6"
+}, {
+  "state": "Kansas",
+  "price": "87189",
+  "gross_rent_as_percentage": "7"
+}, {
+  "state": "Kentucky",
+  "price": "97814",
+  "gross_rent_as_percentage": "7"
+}, {
+  "state": "Louisiana",
+  "price": "96242",
+  "gross_rent_as_percentage": "8"
+}, {
+  "state": "Maine",
+  "price": "108344",
+  "gross_rent_as_percentage": "5"
+}, {
+  "state": "Maryland",
+  "price": "215598",
+  "gross_rent_as_percentage": "9"
+}, {
+  "state": "Massachusetts",
+  "price": "211296",
+  "gross_rent_as_percentage": "10"
+}, {
+  "state": "Michigan",
+  "price": "95184",
+  "gross_rent_as_percentage": "7"
+}, {
+  "state": "Minnesota",
+  "price": "140231",
+  "gross_rent_as_percentage": "5"
+}, {
+  "state": "Mississippi",
+  "price": "73808",
+  "gross_rent_as_percentage": "8"
+}, {
+  "state": "Missouri",
+  "price": "94301",
+  "gross_rent_as_percentage": "7"
+}, {
+  "state": "Montana",
+  "price": "134766",
+  "gross_rent_as_percentage": "6"
+}, {
+  "state": "Nebraska",
+  "price": "89121",
+  "gross_rent_as_percentage": "7"
+}, {
+  "state": "Nevada",
+  "price": "111426",
+  "gross_rent_as_percentage": "12"
+}, {
+  "state": "New Hampshire",
+  "price": "163688",
+  "gross_rent_as_percentage": "6"
+}, {
+  "state": "New Jersey",
+  "price": "223667",
+  "gross_rent_as_percentage": "10"
+}, {
+  "state": "New Mexico",
+  "price": "112508",
+  "gross_rent_as_percentage": "7"
+}, {
+  "state": "New York",
+  "price": "185312",
+  "gross_rent_as_percentage": "12"
+}, {
+  "state": "North Carolina",
+  "price": "116116",
+  "gross_rent_as_percentage": "8"
+}, {
+  "state": "North Dakota",
+  "price": "93573",
+  "gross_rent_as_percentage": "6"
+}, {
+  "state": "Ohio",
+  "price": "91746",
+  "gross_rent_as_percentage": "8"
+}, {
+  "state": "Oklahoma",
+  "price": "73665",
+  "gross_rent_as_percentage": "7"
+}, {
+  "state": "Oregon",
+  "price": "149930",
+  "gross_rent_as_percentage": "10"
+}, {
+  "state": "Pennsylvania",
+  "price": "116607",
+  "gross_rent_as_percentage": "7"
+}, {
+  "state": "Rhode Island",
+  "price": "155334",
+  "gross_rent_as_percentage": "10"
+}, {
+  "state": "South Carolina",
+  "price": "113509",
+  "gross_rent_as_percentage": "7"
+}, {
+  "state": "South Dakota",
+  "price": "87362",
+  "gross_rent_as_percentage": "6"
+}, {
+  "state": "Tennessee",
+  "price": "112769",
+  "gross_rent_as_percentage": "8"
+}, {
+  "state": "Texas",
+  "price": "104319",
+  "gross_rent_as_percentage": "9"
+}, {
+  "state": "Utah",
+  "price": "159036",
+  "gross_rent_as_percentage": "7"
+}, {
+  "state": "Vermont",
+  "price": "147474",
+  "gross_rent_as_percentage": "5"
+}, {
+  "state": "Virginia",
+  "price": "188767",
+  "gross_rent_as_percentage": "8"
+}, {
+  "state": "Washington",
+  "price": "181081",
+  "gross_rent_as_percentage": "9"
+}, {
+  "state": "West Virginia",
+  "price": "77316",
+  "gross_rent_as_percentage": "6"
+}, {
+  "state": "Wisconsin",
+  "price": "124270",
+  "gross_rent_as_percentage": "6"
+}, {
+  "state": "Wyoming",
+  "price": "132271",
+  "gross_rent_as_percentage": "6"
+}]

@@ -1,0 +1,358 @@
+[{
+  "state": "Alabama",
+  "other_incomes": "1591",
+  "social_incomes": "5285",
+  "salary_income": "16687",
+  "self_employment_income": "1054",
+  "total_income": "24617"
+}, {
+  "state": "Alaska",
+  "other_incomes": "2298",
+  "social_incomes": "2974",
+  "salary_income": "20741",
+  "self_employment_income": "1638",
+  "total_income": "27652"
+}, {
+  "state": "Arizona",
+  "other_incomes": "2043",
+  "social_incomes": "4848",
+  "salary_income": "18201",
+  "self_employment_income": "1150",
+  "total_income": "26242"
+}, {
+  "state": "Arkansas",
+  "other_incomes": "1474",
+  "social_incomes": "4791",
+  "salary_income": "15305",
+  "self_employment_income": "1014",
+  "total_income": "22585"
+}, {
+  "state": "California",
+  "other_incomes": "2777",
+  "social_incomes": "4137",
+  "salary_income": "22526",
+  "self_employment_income": "1920",
+  "total_income": "31359"
+}, {
+  "state": "Colorado",
+  "other_incomes": "2978",
+  "social_incomes": "4263",
+  "salary_income": "24143",
+  "self_employment_income": "1646",
+  "total_income": "33030"
+}, {
+  "state": "Connecticut",
+  "other_incomes": "3431",
+  "social_incomes": "5101",
+  "salary_income": "30543",
+  "self_employment_income": "1991",
+  "total_income": "41065"
+}, {
+  "state": "Delaware",
+  "other_incomes": "2601",
+  "social_incomes": "6279",
+  "salary_income": "22108",
+  "self_employment_income": "957",
+  "total_income": "31944"
+}, {
+  "state": "District of Columbia",
+  "other_incomes": "2954",
+  "social_incomes": "5080",
+  "salary_income": "37834",
+  "self_employment_income": "2165",
+  "total_income": "48033"
+}, {
+  "state": "Florida",
+  "other_incomes": "3154",
+  "social_incomes": "5601",
+  "salary_income": "18830",
+  "self_employment_income": "1108",
+  "total_income": "28692"
+}, {
+  "state": "Georgia",
+  "other_incomes": "1657",
+  "social_incomes": "4304",
+  "salary_income": "19852",
+  "self_employment_income": "1124",
+  "total_income": "26938"
+}, {
+  "state": "Hawaii",
+  "other_incomes": "2691",
+  "social_incomes": "5171",
+  "salary_income": "21142",
+  "self_employment_income": "1515",
+  "total_income": "30519"
+}, {
+  "state": "Idaho",
+  "other_incomes": "1609",
+  "social_incomes": "4323",
+  "salary_income": "15267",
+  "self_employment_income": "1703",
+  "total_income": "22903"
+}, {
+  "state": "Illinois",
+  "other_incomes": "2037",
+  "social_incomes": "4384",
+  "salary_income": "23072",
+  "self_employment_income": "1331",
+  "total_income": "30824"
+}, {
+  "state": "Indiana",
+  "other_incomes": "1460",
+  "social_incomes": "4227",
+  "salary_income": "18104",
+  "self_employment_income": "1072",
+  "total_income": "24862"
+}, {
+  "state": "Iowa",
+  "other_incomes": "2244",
+  "social_incomes": "4328",
+  "salary_income": "18201",
+  "self_employment_income": "2046",
+  "total_income": "26818"
+}, {
+  "state": "Kansas",
+  "other_incomes": "2026",
+  "social_incomes": "4169",
+  "salary_income": "19068",
+  "self_employment_income": "1788",
+  "total_income": "27050"
+}, {
+  "state": "Kentucky",
+  "other_incomes": "1727",
+  "social_incomes": "4897",
+  "salary_income": "17254",
+  "self_employment_income": "1092",
+  "total_income": "24970"
+}, {
+  "state": "Louisiana",
+  "other_incomes": "1742",
+  "social_incomes": "4297",
+  "salary_income": "18364",
+  "self_employment_income": "1358",
+  "total_income": "25761"
+}, {
+  "state": "Maine",
+  "other_incomes": "2236",
+  "social_incomes": "5538",
+  "salary_income": "16915",
+  "self_employment_income": "1649",
+  "total_income": "26338"
+}, {
+  "state": "Maryland",
+  "other_incomes": "2470",
+  "social_incomes": "5270",
+  "salary_income": "29394",
+  "self_employment_income": "1625",
+  "total_income": "38759"
+}, {
+  "state": "Massachusetts",
+  "other_incomes": "2618",
+  "social_incomes": "4448",
+  "salary_income": "28366",
+  "self_employment_income": "1873",
+  "total_income": "37304"
+}, {
+  "state": "Michigan",
+  "other_incomes": "1816",
+  "social_incomes": "5418",
+  "salary_income": "18148",
+  "self_employment_income": "1009",
+  "total_income": "26392"
+}, {
+  "state": "Minnesota",
+  "other_incomes": "2483",
+  "social_incomes": "4234",
+  "salary_income": "21843",
+  "self_employment_income": "2481",
+  "total_income": "31040"
+}, {
+  "state": "Mississippi",
+  "other_incomes": "1184",
+  "social_incomes": "4432",
+  "salary_income": "14296",
+  "self_employment_income": "983",
+  "total_income": "20895"
+}, {
+  "state": "Missouri",
+  "other_incomes": "2778",
+  "social_incomes": "7397",
+  "salary_income": "23545",
+  "self_employment_income": "1870",
+  "total_income": "35590"
+}, {
+  "state": "Montana",
+  "other_incomes": "3909",
+  "social_incomes": "7120",
+  "salary_income": "21684",
+  "self_employment_income": "3852",
+  "total_income": "36565"
+}, {
+  "state": "Nebraska",
+  "other_incomes": "3793",
+  "social_incomes": "5918",
+  "salary_income": "25547",
+  "self_employment_income": "3440",
+  "total_income": "38698"
+}, {
+  "state": "Nevada",
+  "other_incomes": "4104",
+  "social_incomes": "8363",
+  "salary_income": "29111",
+  "self_employment_income": "1776",
+  "total_income": "43354"
+}, {
+  "state": "New Hampshire",
+  "other_incomes": "4623",
+  "social_incomes": "7758",
+  "salary_income": "31550",
+  "self_employment_income": "2196",
+  "total_income": "46127"
+}, {
+  "state": "New Jersey",
+  "other_incomes": "4381",
+  "social_incomes": "8124",
+  "salary_income": "42466",
+  "self_employment_income": "2392",
+  "total_income": "57363"
+}, {
+  "state": "New Mexico",
+  "other_incomes": "3595",
+  "social_incomes": "7938",
+  "salary_income": "22423",
+  "self_employment_income": "1909",
+  "total_income": "35864"
+}, {
+  "state": "New York",
+  "other_incomes": "3864",
+  "social_incomes": "7993",
+  "salary_income": "33372",
+  "self_employment_income": "2336",
+  "total_income": "47566"
+}, {
+  "state": "North Carolina",
+  "other_incomes": "3290",
+  "social_incomes": "7491",
+  "salary_income": "26274",
+  "self_employment_income": "1489",
+  "total_income": "38545"
+}, {
+  "state": "North Dakota",
+  "other_incomes": "5220",
+  "social_incomes": "5547",
+  "salary_income": "24913",
+  "self_employment_income": "6479",
+  "total_income": "42160"
+}, {
+  "state": "Ohio",
+  "other_incomes": "2756",
+  "social_incomes": "7826",
+  "salary_income": "25893",
+  "self_employment_income": "1438",
+  "total_income": "37914"
+}, {
+  "state": "Oklahoma",
+  "other_incomes": "2814",
+  "social_incomes": "6362",
+  "salary_income": "23096",
+  "self_employment_income": "1995",
+  "total_income": "34268"
+}, {
+  "state": "Oregon",
+  "other_incomes": "4232",
+  "social_incomes": "8174",
+  "salary_income": "25176",
+  "self_employment_income": "2130",
+  "total_income": "39712"
+}, {
+  "state": "Pennsylvania",
+  "other_incomes": "3050",
+  "social_incomes": "7580",
+  "salary_income": "27263",
+  "self_employment_income": "1811",
+  "total_income": "39704"
+}, {
+  "state": "Rhode Island",
+  "other_incomes": "3874",
+  "social_incomes": "7655",
+  "salary_income": "30780",
+  "self_employment_income": "2149",
+  "total_income": "44457"
+}, {
+  "state": "South Carolina",
+  "other_incomes": "3640",
+  "social_incomes": "8114",
+  "salary_income": "23045",
+  "self_employment_income": "1308",
+  "total_income": "36107"
+}, {
+  "state": "South Dakota",
+  "other_incomes": "3660",
+  "social_incomes": "5841",
+  "salary_income": "21142",
+  "self_employment_income": "4529",
+  "total_income": "35172"
+}, {
+  "state": "Tennessee",
+  "other_incomes": "3033",
+  "social_incomes": "7508",
+  "salary_income": "24888",
+  "self_employment_income": "2159",
+  "total_income": "37589"
+}, {
+  "state": "Texas",
+  "other_incomes": "3610",
+  "social_incomes": "6414",
+  "salary_income": "31229",
+  "self_employment_income": "2526",
+  "total_income": "43778"
+}, {
+  "state": "Utah",
+  "other_incomes": "3291",
+  "social_incomes": "6425",
+  "salary_income": "31386",
+  "self_employment_income": "1702",
+  "total_income": "42804"
+}, {
+  "state": "Vermont",
+  "other_incomes": "4376",
+  "social_incomes": "6728",
+  "salary_income": "23958",
+  "self_employment_income": "2818",
+  "total_income": "37879"
+}, {
+  "state": "Virginia",
+  "other_incomes": "3889",
+  "social_incomes": "8474",
+  "salary_income": "37476",
+  "self_employment_income": "1859",
+  "total_income": "51697"
+}, {
+  "state": "Washington",
+  "other_incomes": "4451",
+  "social_incomes": "7867",
+  "salary_income": "31789",
+  "self_employment_income": "2137",
+  "total_income": "46245"
+}, {
+  "state": "West Virginia",
+  "other_incomes": "2333",
+  "social_incomes": "8291",
+  "salary_income": "20033",
+  "self_employment_income": "1042",
+  "total_income": "31699"
+}, {
+  "state": "Wisconsin",
+  "other_incomes": "3208",
+  "social_incomes": "7303",
+  "salary_income": "26140",
+  "self_employment_income": "2054",
+  "total_income": "38706"
+}, {
+  "state": "Wyoming",
+  "other_incomes": "3899",
+  "social_incomes": "6859",
+  "salary_income": "27896",
+  "self_employment_income": "2307",
+  "total_income": "40961"
+}]

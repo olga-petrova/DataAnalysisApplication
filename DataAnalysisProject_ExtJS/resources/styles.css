@@ -1,0 +1,115 @@
+.state{
+    fill: none;
+    stroke: #a9a9a9;
+    stroke-width: 1;
+}
+.state:hover{
+    opacity: 0.6;
+}
+
+.state.highlighted {
+    stroke: #33cc33;
+    stroke-width: 3;
+}
+
+
+
+.arc path {
+    stroke: #a9a9a9;
+}
+
+.legend-title {
+    font-weight: bold;
+}
+
+.legend-title, .legend {
+    stroke: #595959;
+    fill: #595959;
+}
+
+.legend-frame {
+    stroke: #a9a9a9;
+    fill: none;
+    stroke-width: 2;
+}
+
+.arc path {
+    stroke-width: 1;
+}
+
+.arc path:hover {
+    stroke-width: 2;
+}
+
+.box {
+    font: 10px sans-serif;
+}
+
+.box line,
+.box rect,
+.box circle {
+    fill: #fff;
+    stroke: #000;
+    stroke-width: 1.5px;
+}
+
+.box .center {
+    stroke-dasharray: 3,3;
+}
+
+.box .outlier {
+    fill: none;
+    stroke: #ccc;
+}
+
+.box.highlighted {
+    stroke: #33cc33;
+}
+.box.highlighted line,
+.box.highlighted rect,
+.box.highlighted circle {
+    stroke: #33cc33;
+}
+
+
+.pivotgrid .highlighted td {
+    background: #33cc33 none repeat scroll 0 0 !important;
+}
+
+.x-d3-node.highlighted {
+    stroke: #33cc33;
+    stroke-width: 3;
+}
+
+.best-state .x-form-display-field-default  {
+    color: #33cc33;
+    font-weight: bold;
+}
+
+.query-window, .query-window .x-box-inner, .query-window .x-form-item-label-text {
+    background-color: #5795cb;
+    color: #FFFFFF;
+}
+
+.query-window .x-form-item-label-text, .query-window .title {
+   font-weight: bold;
+}
+
+.query-window .x-btn-default-small {
+    background-color: #FFFFFF;
+}
+
+.query-window .x-btn-inner {
+    color: #404040;
+}
+
+    /*Theme overrides*/
+.x-panel-bodyWrap {
+    overflow: visible;
+}
+
+
+::-webkit-scrollbar-thumb {
+    background-color: pink;
+    min-height: 3px !important;
+}

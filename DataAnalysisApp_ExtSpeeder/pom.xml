@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.analysis.app</groupId>
+    <artifactId>dataanalysisapp</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+
+        <extspeeder.version>1.0.6</extspeeder.version>
+        <db.groupId>mysql</db.groupId>
+        <db.artifactId>mysql-connector-java</db.artifactId>
+        <db.version>5.1.38</db.version>
+    </properties>
+    <repositories>
+        <repository>
+            <id>speedment-enterprise</id>
+            <name>Speedment Enterprise Repositories</name>
+            <url>http://repo.speedment.com/nexus/content/repositories/releases/</url>
+        </repository>
+        <repository>
+            <id>speedment-enterprise-snapshots</id>
+            <name>Speedment Enterprise Snapshot Repositories</name>
+            <url>http://repo.speedment.com/nexus/content/repositories/snapshots/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+    <pluginRepositories>
+        <pluginRepository>
+            <id>speedment-enterprise</id>
+            <name>Speedment Enterprise Repositories</name>
+            <url>http://repo.speedment.com/nexus/content/repositories/releases/</url>
+        </pluginRepository>
+        <pluginRepository>
+            <id>speedment-enterprise-snapshots</id>
+            <name>Speedment Enterprise Snapshot Repositories</name>
+            <url>http://repo.speedment.com/nexus/content/repositories/snapshots/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </pluginRepository>
+    </pluginRepositories>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>com.speedment</groupId>
+                <artifactId>extspeeder-maven-plugin</artifactId>
+                <version>${extspeeder.version}</version>
+                <dependencies>
+                    <dependency>
+                        <groupId>${db.groupId}</groupId>
+                        <artifactId>${db.artifactId}</artifactId>
+                        <version>${db.version}</version>
+                    </dependency>
+                </dependencies>
+            </plugin>
+        </plugins>
+    </build>
+    <dependencies>
+        <dependency>
+            <groupId>com.speedment</groupId>
+            <artifactId>extspeeder-runtime</artifactId>
+            <version>${extspeeder.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>${db.groupId}</groupId>
+            <artifactId>${db.artifactId}</artifactId>
+            <version>${db.version}</version>
+        </dependency>
+    </dependencies>
+
+</project>
